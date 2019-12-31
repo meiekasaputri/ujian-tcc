@@ -1,10 +1,14 @@
 # UAS Responsi Praktikum Teknologi Cloud
 
-# Mei Eka Saputri
-# 175410006**
-# TI9
-# S1 Teknik Informatika
-# Selasa, 31 Desember 2019
+**Mei Eka Saputri**
+
+**175410006**
+
+**TI9**
+
+**S1 Teknik Informatika**
+
+**Selasa, 31 Desember 2019**
 
 **Overview dari Pertemuan Minggu-01 sampai dengan Pertemuan Minggu-13**
 
