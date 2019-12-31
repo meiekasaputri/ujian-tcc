@@ -31,14 +31,21 @@
    URL : https://github.com/meiekasaputri/tcc/tree/master/minggu-02
 
    Pertemuan Minggu-02 menjelaskan tentang bagaimana cara :
+
    a. Membatalkan Perubahan
+
    b. Undo Commit Terakhir
 
 3. Materi Praktikum Minggu-03
+
    URL : https://github.com/meiekasaputri/tcc/tree/master/minggu-03
+
    Pertemuan Minggu-03 menjelaskan tentang :
+
    a. Mengerjakan Tugas tentang SaaS (Software as a Service)
+
    b. Memebrikan Contoh Aplikasi SaaS (Software as a Service)
+   
    c. Menunjukkan Arsitektur SaaS (Software as a Service)
 
 4. Materi Praktikum Minggu-04
