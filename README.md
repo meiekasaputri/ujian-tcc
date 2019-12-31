@@ -1,27 +1,35 @@
 # UAS Responsi Praktikum Teknologi Cloud
 
-**Mei Eka Saputri**
+**Nama : Mei Eka Saputri**
 
-**175410006**
+**NIM : 175410006**
 
-**TI9**
+**Kelas : TI9**
 
-**S1 Teknik Informatika**
+**Jenjang/Prodi : S1/Teknik Informatika**
 
-**Selasa, 31 Desember 2019**
+**Hari, Tanggal : Selasa, 31 Desember 2019**
 
 **Overview dari Pertemuan Minggu-01 sampai dengan Pertemuan Minggu-13**
 
 1. Materi Praktikum Minggu-01
+
    URL : https://github.com/meiekasaputri/tcc/tree/master/minggu-01
+
    Pertemuan Minggu-01 menjelaskan tentang bagaimana cara :
-   a. Konfigurasi Git
-   b. Mengelola Repo Sendiri di Account Sendiri
-   c. Mengelola Repo - Mengubah Isi - Push Tanpa Branching dan Merging
+
+   a. Konfigurasi Git.
+
+   b. Mengelola Repo Sendiri di Account Sendiri.
+
+   c. Mengelola Repo - Mengubah Isi - Push Tanpa Branching dan Merging.
+
    d. Mengubah Isi dengan Branching and Merging
 
 2. Materi Praktikum Minggu-02
+
    URL : https://github.com/meiekasaputri/tcc/tree/master/minggu-02
+
    Pertemuan Minggu-02 menjelaskan tentang bagaimana cara :
    a. Membatalkan Perubahan
    b. Undo Commit Terakhir
