@@ -10,7 +10,9 @@
 
 **Hari, Tanggal : Selasa, 31 Desember 2019**
 
+
 **Overview dari Pertemuan Minggu-01 sampai dengan Pertemuan Minggu-13**
+
 
 1. Materi Praktikum Minggu-01
 
@@ -26,6 +28,7 @@
 
    d. Mengubah Isi dengan Branching and Merging
 
+
 2. Materi Praktikum Minggu-02
 
    URL : https://github.com/meiekasaputri/tcc/tree/master/minggu-02
@@ -35,6 +38,7 @@
    a. Membatalkan Perubahan
 
    b. Undo Commit Terakhir
+
 
 3. Materi Praktikum Minggu-03
 
@@ -48,6 +52,7 @@
 
    c. Menunjukkan Arsitektur SaaS (Software as a Service)
 
+
 4. Materi Praktikum Minggu-04
 
    URL : https://github.com/meiekasaputri/tcc/tree/master/minggu-04
@@ -60,6 +65,7 @@
 
    c. Memberikan Contoh Penyedia Layanan BPaaS
 
+
 5. Materi Praktikum  Minggu-05
 
    URL : https://github.com/meiekasaputri/tcc/tree/master/minggu-05
@@ -67,6 +73,7 @@
    Pertemuan Minggu-05 menjelaskan tentang bagaimana cara :
 
    a. Install CockroachDb Menggunakan Docker
+
 
 6. Materi Praktikum Minggu-06
 
@@ -80,6 +87,7 @@
 
    c. Building Container Images
 
+
 7. Materi Praktikum Minggu-07
 
    URL : https://github.com/meiekasaputri/tcc/tree/master/minggu-07
@@ -87,6 +95,7 @@
    Pertemuan Minggu-07 menjelaskan tentang :
 
    a. Zeit Now
+
 
 8. Materi Praktikum Minggu-08
 
@@ -96,6 +105,7 @@
 
    a. Install dan Konfigurasi Dockerized python+flask
 
+
 9. Materi Praktikum Minggu-09
 
    URL : https://github.com/meiekasaputri/tcc/tree/master/minggu-09
@@ -104,6 +114,7 @@
 
    a. Melanjutkan pertemuan Minggu-08 yaitu menyelesaikan installasi dan konfigurasi Dockerized python+flask
 
+
 10. Materi Praktikum Minggu-10
 
     URL : https://github.com/meiekasaputri/tcc/tree/master/minggu-09
@@ -111,6 +122,7 @@
     Pertemuan Minggu-10 menjelaskan tentang bagaimana cara :
 
     a. Git untuk Kolaborasi dengan menggunakan Fork
+
 
 11. Materi Praktikum Minggu-11
 
@@ -126,6 +138,7 @@
 
     d. Menjelaskan bagaimana cara Getting started software IaaS yang dipilih (Opennebula) Getting Started with Opennebula
 
+
 12. Materi Praktikum Minggu-12
 
     URL : https://github.com/meiekasaputri/tcc/tree/master/minggu-12
@@ -134,6 +147,7 @@
 
     a. Instalasi Drupal Menggunakan Docker Compose
 
+
 13. Materi Praktikum Minggu-13
 
     URL : https://github.com/meiekasaputri/tcc/tree/master/minggu-13
@@ -141,6 +155,7 @@
     Pertemuan Minggu-13 menjelaskan tentang bagaimana cara :
 
     a. Docker Swarm
+
 
 14. Materi Praktikum UTS
 
@@ -153,5 +168,5 @@
     b. Pengertian PaaS
 
     c. Pengertian SaaS
-    
+
     d. Docker Hub
